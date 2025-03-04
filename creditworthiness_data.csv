@@ -1,0 +1,6 @@
+
+Gender	Marital_Status	Credit_History	LoanAmount	Income	Loan_Status
+Male	Married	Good	100000	50000	Approved
+Female	Single	Bad	50000	30000	Denied
+Male	Single	Good	200000	70000	Approved
+Female	Married	Good	150000	60000	Approved
